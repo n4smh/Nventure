@@ -1,4 +1,4 @@
-# Nventure
+# Nventure ![GitHub Logo](/images/logo-combined.png)
 
 Developed using HTML-5, Bootstrap, CSS, JavaScript and JQuery.
 
