@@ -72,3 +72,7 @@ function myFunction() {
         navbar.className = "navbar" + " navbar-inverse" + " navbar-fixed-top" + " navbar-top-default";
     }
 }
+
+$(document).ready(function () {
+    $("body").css("padding-top", $(".navbar-header").outerHeight()+"px");
+});
