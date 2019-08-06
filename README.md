@@ -1,6 +1,13 @@
 # Nventure ![GitHub Logo](/images/logo-combined.png)
 
-Developed using HTML-5, Bootstrap, CSS, JavaScript and JQuery.  <br/>
+Webpage developed to learn frontend technologies.
 
-This page is developed for learing web designing, it's not used for any commercial purpose. <br/>
+### Technologies Used  
+  * HTML-5
+  * Bootstrap 
+  * CSS
+  * JavaScript 
+  * JQuery
+  
 Data content and images are populated by refering to http://pitch-tents.co.uk/  <br/>
+This is not for commercial use. <br/>
